@@ -1,0 +1,25 @@
+{
+    "name": "burger-logger",
+    "version": "1.0.0",
+    "description": "CRUD burger logger that allows users to log burgers and delete them at will",
+    "main": "server.js",
+    "start": "node server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cyrusjose/Burger.git"
+    },
+    "author": "Cyrus Jose",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^3.1.0",
+        "mysql": "^2.18.1"
+    },
+    "bugs": {
+        "url": "https://github.com/cyrusjose/Burger/issues"
+    },
+    "homepage": "https://github.com/cyrusjose/Burger#readme"
+}
