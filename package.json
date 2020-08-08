@@ -1,7 +1,7 @@
 {
     "name": "burger-logger",
     "version": "1.0.0",
-    "description": "CRUD burger logger that allows users to log burgers and delete them at will",
+    "description": "burger logger that allows users to log burgers and delete them at will",
     "main": "server.js",
     "start": "node server.js",
     "scripts": {
