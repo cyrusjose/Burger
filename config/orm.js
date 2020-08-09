@@ -2,7 +2,7 @@ var connection = require("../config/connection");
 var printQuestionMarks = (num) => {
   var arr = [];
 
-  for (vari = 0; i < num; i++) {
+  for (var i = 0; i < num; i++) {
     arr.push("?");
   }
   return arr.toString();
