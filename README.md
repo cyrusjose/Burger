@@ -15,7 +15,7 @@ It allows the user add a their favorite hamburger to the list and devour them wh
 
 ## Installation
 
-Installation requirement(s) [Add more as necessary]:
+Installation requirements:
 
 - node
 - express
