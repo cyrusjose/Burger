@@ -1,20 +1,24 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.eat-burger,
+.add-burger {
+  border: 2px solid black;
+  border-radius: 50px;
+  padding: 5px;
+}
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
-  
-  .label {
-    font-weight: bold;
-  }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  }
-  
+  margin: 10px;
+}
+
+.main-head{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.row{
+  border: 10px solid black;
+}
